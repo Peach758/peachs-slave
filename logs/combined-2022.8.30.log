@@ -1,0 +1,360 @@
+{"level":30,"time":1664547141707,"pid":10492,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664547141709,"pid":10492,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664547142148,"pid":10492,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":50,"time":1664547142603,"pid":10492,"hostname":"Ethans-Computer","msg":"Failed to load C:\\Users\\fruit\\discord-js-bot\\src\\commands\\admin\\say.js Reason: Missing 'interactionRun' function"}
+{"level":20,"time":1664547145455,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664547145456,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664547145457,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664547145459,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664547145460,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664547145493,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664547145493,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664547145494,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664547145496,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664547145497,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664547145507,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664547145508,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664547145509,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664547145510,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664547145510,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664547145510,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664547145511,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664547145512,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664547145512,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664547145513,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664547145514,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664547145514,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664547145516,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664547145518,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664547145522,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145522,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145533,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145534,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145535,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145535,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145536,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145536,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145537,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145537,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145538,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145538,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145539,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664547145539,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664547145540,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664547145541,"pid":10492,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664547145586,"pid":10492,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664547145586,"pid":10492,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664547145586,"pid":10492,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664547145587,"pid":10492,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664547145587,"pid":10492,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664547145587,"pid":10492,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664547145628,"pid":10492,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664547145628,"pid":10492,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664547146315,"pid":10492,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664547146591,"pid":10492,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664547146591,"pid":10492,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664547148663,"pid":10492,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664547149125,"pid":10492,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664547149126,"pid":10492,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664547149194,"pid":10492,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664547149423,"pid":10492,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":30,"time":1664558050939,"pid":25560,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664558050940,"pid":25560,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664558051005,"pid":25560,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":50,"time":1664558051090,"pid":25560,"hostname":"Ethans-Computer","msg":"Failed to load C:\\Users\\fruit\\discord-js-bot\\src\\commands\\admin\\say.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1664558051858,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664558051859,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664558051861,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664558051863,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664558051864,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664558051873,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664558051874,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664558051875,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664558051876,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664558051877,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664558051886,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664558051887,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664558051888,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664558051889,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664558051889,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664558051890,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664558051890,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664558051890,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664558051891,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664558051892,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664558051892,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664558051893,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664558051895,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664558051896,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664558051901,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051901,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051903,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051904,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051904,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051905,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051905,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051906,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051907,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051907,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051907,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051908,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051908,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558051909,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664558051910,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664558051910,"pid":25560,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664558051941,"pid":25560,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664558051942,"pid":25560,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664558051942,"pid":25560,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664558051943,"pid":25560,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664558051943,"pid":25560,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664558051943,"pid":25560,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664558051975,"pid":25560,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664558051975,"pid":25560,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664558052582,"pid":25560,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664558052861,"pid":25560,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664558052861,"pid":25560,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664558054003,"pid":25560,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664558054416,"pid":25560,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664558054416,"pid":25560,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664558054471,"pid":25560,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664558054804,"pid":25560,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":30,"time":1664558165531,"pid":15472,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664558165532,"pid":15472,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664558165567,"pid":15472,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":50,"time":1664558165627,"pid":15472,"hostname":"Ethans-Computer","msg":"Failed to load C:\\Users\\fruit\\discord-js-bot\\src\\commands\\admin\\say.js Reason: Command name must be a lowercase string."}
+{"level":20,"time":1664558166144,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664558166146,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664558166147,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664558166149,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664558166149,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664558166156,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664558166157,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664558166157,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664558166160,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664558166161,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664558166171,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664558166171,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664558166172,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664558166173,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664558166173,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664558166174,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664558166175,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664558166175,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664558166176,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664558166177,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664558166177,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664558166178,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664558166180,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664558166182,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664558166186,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166186,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166187,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166188,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166189,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166189,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166189,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166190,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166190,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166191,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166191,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166192,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166192,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558166193,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664558166193,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664558166194,"pid":15472,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664558166216,"pid":15472,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664558166216,"pid":15472,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664558166216,"pid":15472,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664558166217,"pid":15472,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664558166217,"pid":15472,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664558166217,"pid":15472,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664558166245,"pid":15472,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664558166245,"pid":15472,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664558168316,"pid":15472,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664558168733,"pid":15472,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664558168733,"pid":15472,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664558168874,"pid":15472,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664558169721,"pid":15472,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664558169721,"pid":15472,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664558169793,"pid":15472,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664558170668,"pid":15472,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":30,"time":1664558485092,"pid":30612,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664558485093,"pid":30612,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664558485138,"pid":30612,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":50,"time":1664558485204,"pid":30612,"hostname":"Ethans-Computer","msg":"Failed to load C:\\Users\\fruit\\discord-js-bot\\src\\commands\\admin\\say.js Reason: ApplicationCommandOptionType is not defined"}
+{"level":20,"time":1664558485804,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664558485805,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664558485806,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664558485807,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664558485808,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664558485816,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664558485816,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664558485817,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664558485819,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664558485819,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664558485828,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664558485829,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664558485831,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664558485831,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664558485832,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664558485832,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664558485833,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664558485833,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664558485833,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664558485835,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664558485836,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664558485836,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664558485838,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664558485839,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664558485842,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485843,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485845,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485846,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485847,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485847,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485848,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485849,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485850,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485850,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485851,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485851,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485852,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558485852,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664558485853,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664558485854,"pid":30612,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664558485879,"pid":30612,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664558485879,"pid":30612,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664558485879,"pid":30612,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664558485880,"pid":30612,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664558485880,"pid":30612,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664558485880,"pid":30612,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664558485915,"pid":30612,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664558485915,"pid":30612,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664558487565,"pid":30612,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664558488175,"pid":30612,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664558488175,"pid":30612,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664558488351,"pid":30612,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664558489019,"pid":30612,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664558489019,"pid":30612,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664558489070,"pid":30612,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664558489380,"pid":30612,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":30,"time":1664558584212,"pid":32676,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664558584213,"pid":32676,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664558584248,"pid":32676,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":50,"time":1664558584308,"pid":32676,"hostname":"Ethans-Computer","msg":"Failed to load C:\\Users\\fruit\\discord-js-bot\\src\\commands\\admin\\say.js Reason: Missing 'messageRun' function"}
+{"level":20,"time":1664558584831,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664558584832,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664558584833,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664558584836,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664558584837,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664558584843,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664558584844,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664558584846,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664558584848,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664558584848,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664558584857,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664558584858,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664558584860,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664558584860,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664558584860,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664558584861,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664558584862,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664558584863,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664558584863,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664558584864,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664558584865,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664558584866,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664558584867,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664558584868,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664558584874,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584874,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584875,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584876,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584876,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584877,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584877,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584879,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584880,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584881,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584882,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584882,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584882,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558584883,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664558584884,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664558584884,"pid":32676,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664558584903,"pid":32676,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664558584904,"pid":32676,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664558584904,"pid":32676,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664558584905,"pid":32676,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664558584905,"pid":32676,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664558584905,"pid":32676,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664558584935,"pid":32676,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664558584935,"pid":32676,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664558586984,"pid":32676,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664558587645,"pid":32676,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664558587645,"pid":32676,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664558587781,"pid":32676,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664558588567,"pid":32676,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664558588567,"pid":32676,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664558588665,"pid":32676,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664558589124,"pid":32676,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":30,"time":1664558674719,"pid":7116,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664558674720,"pid":7116,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664558674753,"pid":7116,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":50,"time":1664558674806,"pid":7116,"hostname":"Ethans-Computer","msg":"Failed to load C:\\Users\\fruit\\discord-js-bot\\src\\commands\\admin\\say.js Reason: Unexpected identifier"}
+{"level":20,"time":1664558675329,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664558675331,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664558675332,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664558675333,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664558675334,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664558675341,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664558675342,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664558675342,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664558675344,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664558675345,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664558675353,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664558675354,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664558675355,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664558675355,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664558675356,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664558675356,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664558675356,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664558675357,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664558675358,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664558675359,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664558675360,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664558675361,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664558675363,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664558675364,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664558675368,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675368,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675369,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675370,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675370,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675371,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675371,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675372,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675372,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675374,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675375,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675376,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675376,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664558675377,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664558675377,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664558675378,"pid":7116,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664558675399,"pid":7116,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664558675399,"pid":7116,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664558675399,"pid":7116,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664558675400,"pid":7116,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664558675400,"pid":7116,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664558675400,"pid":7116,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664558675431,"pid":7116,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664558675431,"pid":7116,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664558677195,"pid":7116,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664558677687,"pid":7116,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664558677687,"pid":7116,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664558677817,"pid":7116,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664558678718,"pid":7116,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664558678718,"pid":7116,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664558679049,"pid":7116,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664558680732,"pid":7116,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}

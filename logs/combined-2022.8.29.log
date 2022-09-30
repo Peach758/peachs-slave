@@ -1,0 +1,595 @@
+{"level":30,"time":1664461888501,"pid":2808,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664461888502,"pid":2808,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664461889082,"pid":2808,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664461889101,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1664461889102,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1664461889180,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1664461889239,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1664461889241,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1664461889243,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1664461889251,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1664461892487,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1664461892490,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1664461892492,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1664461892498,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664461892500,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664461892501,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664461892503,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664461892504,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664461892538,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664461892539,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664461892541,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664461892543,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664461892544,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664461892546,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1664461892547,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1664461892549,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1664461892550,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1664461892551,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1664461892552,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1664461892553,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1664461892554,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1664461892555,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1664461892558,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1664461892559,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1664461892561,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1664461892562,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1664461892565,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1664461892567,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664461892568,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1664461892569,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1664461892571,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1664461892572,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1664461892573,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1664461892574,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1664461892576,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1664461892578,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1664461892581,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1664461892584,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664461892586,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1664461892587,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1664461892589,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1664461892590,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1664461892591,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1664461892592,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1664461892593,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1664461892594,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892595,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892605,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892606,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892607,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892607,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892608,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892609,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892609,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892610,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892611,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892611,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892612,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664461892614,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664461892614,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664461892615,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1664461892617,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1664461892618,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1664461892618,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1664461892619,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1664461892620,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1664461892622,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1664461892626,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1664461892628,"pid":2808,"hostname":"Ethans-Computer","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1664461892648,"pid":2808,"hostname":"Ethans-Computer","msg":"Loaded 41 commands"}
+{"level":30,"time":1664461892648,"pid":2808,"hostname":"Ethans-Computer","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1664461892648,"pid":2808,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664461892650,"pid":2808,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664461892650,"pid":2808,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664461892650,"pid":2808,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664461892698,"pid":2808,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664461892699,"pid":2808,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1664461893326,"pid":2808,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"certificate validation failed","stack":"MongoServerError: certificate validation failed\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Mongoose: Failed to connect to database: certificate validation failed"}
+{"level":30,"time":1664462531155,"pid":25424,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664462531156,"pid":25424,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664462531209,"pid":25424,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664462531227,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1664462531228,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1664462531285,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1664462531306,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1664462531307,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1664462531308,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1664462531309,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1664462532028,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1664462532030,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1664462532031,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1664462532038,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664462532039,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664462532041,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664462532042,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664462532044,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664462532055,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664462532055,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664462532057,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664462532058,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664462532059,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664462532061,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1664462532062,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1664462532063,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1664462532065,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1664462532066,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1664462532067,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1664462532068,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1664462532069,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1664462532069,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1664462532071,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1664462532072,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1664462532073,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1664462532075,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1664462532076,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1664462532077,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664462532077,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1664462532078,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1664462532078,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1664462532079,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1664462532079,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1664462532081,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1664462532084,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1664462532085,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1664462532085,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1664462532087,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664462532088,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1664462532089,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1664462532089,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1664462532090,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1664462532091,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1664462532092,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1664462532092,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1664462532093,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532094,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532096,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532097,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532098,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532100,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532101,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532102,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532102,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532103,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532103,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532104,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532105,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462532106,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664462532106,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664462532107,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1664462532109,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1664462532110,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1664462532111,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1664462532111,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1664462532112,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1664462532116,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1664462532120,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1664462532121,"pid":25424,"hostname":"Ethans-Computer","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1664462532137,"pid":25424,"hostname":"Ethans-Computer","msg":"Loaded 41 commands"}
+{"level":30,"time":1664462532137,"pid":25424,"hostname":"Ethans-Computer","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1664462532137,"pid":25424,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664462532139,"pid":25424,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664462532139,"pid":25424,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664462532139,"pid":25424,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664462532188,"pid":25424,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664462532189,"pid":25424,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1664462532878,"pid":25424,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"bad auth : Authentication failed.","stack":"MongoServerError: bad auth : Authentication failed.\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Mongoose: Failed to connect to database: bad auth : Authentication failed."}
+{"level":30,"time":1664462587219,"pid":22472,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664462587220,"pid":22472,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664462587280,"pid":22472,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664462587299,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1664462587300,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1664462587362,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1664462587383,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1664462587384,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1664462587385,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1664462587386,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1664462588114,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1664462588116,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1664462588117,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1664462588123,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664462588124,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664462588126,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664462588129,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664462588131,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664462588142,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664462588143,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664462588144,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664462588149,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664462588150,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664462588152,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1664462588153,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1664462588154,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1664462588155,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1664462588155,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1664462588156,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1664462588157,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1664462588158,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1664462588159,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1664462588161,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1664462588162,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1664462588164,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1664462588166,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1664462588167,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1664462588168,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664462588168,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1664462588169,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1664462588169,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1664462588170,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1664462588171,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1664462588172,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1664462588173,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1664462588174,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1664462588175,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1664462588176,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664462588178,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1664462588178,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1664462588180,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1664462588181,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1664462588182,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1664462588182,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1664462588183,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1664462588185,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588185,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588187,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588188,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588189,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588189,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588190,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588191,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588192,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588192,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588193,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588194,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588195,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664462588196,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664462588197,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664462588198,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1664462588201,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1664462588202,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1664462588203,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1664462588203,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1664462588205,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1664462588207,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1664462588213,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1664462588214,"pid":22472,"hostname":"Ethans-Computer","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1664462588228,"pid":22472,"hostname":"Ethans-Computer","msg":"Loaded 41 commands"}
+{"level":30,"time":1664462588228,"pid":22472,"hostname":"Ethans-Computer","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1664462588228,"pid":22472,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664462588230,"pid":22472,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664462588230,"pid":22472,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664462588230,"pid":22472,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664462588278,"pid":22472,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664462588278,"pid":22472,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664462589201,"pid":22472,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664462589558,"pid":22472,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664462590065,"pid":22472,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664462590544,"pid":22472,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":50,"time":1664462590599,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.reaction-roles]","stack":"MongoServerError: user is not allowed to do action [find] on [test.reaction-roles]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.reaction-roles]"}
+{"level":50,"time":1664462610986,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462626682,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462631765,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462668017,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462681864,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"interactionRun: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462681921,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462741132,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"interactionRun: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462741264,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462751781,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462755135,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462817496,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462828587,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462834520,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664462845175,"pid":22472,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":30,"time":1664463088085,"pid":11916,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664463088087,"pid":11916,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664463088141,"pid":11916,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664463088156,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1664463088157,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1664463088207,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1664463088225,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1664463088226,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1664463088227,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1664463088228,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1664463088949,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1664463088951,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1664463088952,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1664463088957,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664463088958,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664463088960,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664463088962,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664463088965,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664463088975,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664463088976,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664463088977,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664463088979,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664463088981,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664463088984,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1664463088985,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1664463088986,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1664463088987,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1664463088987,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1664463088988,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1664463088989,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1664463088989,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1664463088990,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1664463088993,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1664463088994,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1664463088996,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1664463088998,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1664463089000,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1664463089000,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664463089001,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1664463089002,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1664463089002,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1664463089003,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1664463089003,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1664463089005,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1664463089006,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1664463089007,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1664463089007,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1664463089010,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664463089011,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1664463089012,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1664463089013,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1664463089015,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1664463089015,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1664463089016,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1664463089018,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1664463089019,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089020,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089022,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089022,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089023,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089024,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089025,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089026,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089026,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089027,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089027,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089028,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089029,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664463089030,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664463089031,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664463089032,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1664463089035,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1664463089036,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1664463089036,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1664463089037,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1664463089038,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1664463089041,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1664463089045,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1664463089047,"pid":11916,"hostname":"Ethans-Computer","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1664463089061,"pid":11916,"hostname":"Ethans-Computer","msg":"Loaded 41 commands"}
+{"level":30,"time":1664463089061,"pid":11916,"hostname":"Ethans-Computer","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1664463089061,"pid":11916,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664463089064,"pid":11916,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664463089064,"pid":11916,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664463089064,"pid":11916,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664463089111,"pid":11916,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664463089112,"pid":11916,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664463089812,"pid":11916,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664463090113,"pid":11916,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664463090114,"pid":11916,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664463091865,"pid":11916,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664463092508,"pid":11916,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664463092743,"pid":11916,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":50,"time":1664463092824,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.reaction-roles]","stack":"MongoServerError: user is not allowed to do action [find] on [test.reaction-roles]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.reaction-roles]"}
+{"level":50,"time":1664463231747,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664463251097,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664463297279,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664463303222,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664463322127,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664463322198,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":50,"time":1664463332814,"pid":11916,"hostname":"Ethans-Computer","err":{"type":"MongoServerError","message":"user is not allowed to do action [find] on [test.guilds]","stack":"MongoServerError: user is not allowed to do action [find] on [test.guilds]\n    at Connection.onMessage (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:390:28)\n    at processIncomingData (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\fruit\\discord-js-bot\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:389:12)\n    at _write (node:internal/streams/writable:330:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:334:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:390:28)","ok":0,"code":8000,"codeName":"AtlasError"},"msg":"Client Error: user is not allowed to do action [find] on [test.guilds]"}
+{"level":30,"time":1664464006745,"pid":29176,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664464006747,"pid":29176,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664464006809,"pid":29176,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664464006827,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1664464006828,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1664464006883,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1664464006904,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1664464006905,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1664464006905,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1664464006906,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1664464007669,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1664464007671,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1664464007672,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1664464007678,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664464007679,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664464007681,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664464007683,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664464007685,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664464007696,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664464007697,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664464007698,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664464007700,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664464007701,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664464007703,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1664464007704,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1664464007706,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1664464007708,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1664464007709,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1664464007709,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1664464007710,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1664464007711,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1664464007712,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1664464007714,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1664464007714,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1664464007717,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1664464007720,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1664464007722,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1664464007722,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664464007723,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1664464007723,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1664464007724,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1664464007725,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1664464007725,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1664464007726,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1664464007728,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1664464007729,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1664464007730,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1664464007731,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1664464007733,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1664464007734,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1664464007735,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1664464007735,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1664464007736,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1664464007737,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1664464007738,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1664464007739,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007740,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007742,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007743,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007744,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007745,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007746,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007747,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007748,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007749,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007750,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007751,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007751,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464007752,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664464007753,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664464007754,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1664464007756,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1664464007757,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1664464007757,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1664464007758,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1664464007761,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1664464007764,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1664464007769,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1664464007770,"pid":29176,"hostname":"Ethans-Computer","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1664464007784,"pid":29176,"hostname":"Ethans-Computer","msg":"Loaded 41 commands"}
+{"level":30,"time":1664464007784,"pid":29176,"hostname":"Ethans-Computer","msg":"Loaded 32 slash commands"}
+{"level":30,"time":1664464007785,"pid":29176,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664464007786,"pid":29176,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664464007786,"pid":29176,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664464007786,"pid":29176,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664464007832,"pid":29176,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664464007832,"pid":29176,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664464008677,"pid":29176,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664464008970,"pid":29176,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664464008970,"pid":29176,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664464009219,"pid":29176,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664464009693,"pid":29176,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664464009844,"pid":29176,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":50,"time":1664464346044,"pid":29176,"hostname":"Ethans-Computer","err":{"type":"DiscordAPIError","message":"Unknown Message","stack":"DiscordAPIError[10008]: Unknown Message\n    at SequentialHandler.runRequest (C:\\Users\\fruit\\discord-js-bot\\node_modules\\@discordjs\\rest\\dist\\lib\\handlers\\SequentialHandler.cjs:293:15)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async SequentialHandler.queueRequest (C:\\Users\\fruit\\discord-js-bot\\node_modules\\@discordjs\\rest\\dist\\lib\\handlers\\SequentialHandler.cjs:99:14)\n    at async REST.request (C:\\Users\\fruit\\discord-js-bot\\node_modules\\@discordjs\\rest\\dist\\lib\\REST.cjs:52:22)\n    at async MessageManager.edit (C:\\Users\\fruit\\discord-js-bot\\node_modules\\discord.js\\src\\managers\\MessageManager.js:166:15)","rawError":{"message":"Unknown Message","code":10008},"code":10008,"status":404,"method":"PATCH","url":"https://discord.com/api/v10/channels/1025062060431786005/messages/1025062330167468142","requestBody":{"files":[],"json":{"tts":false,"components":[],"flags":0}}},"msg":"Unhandled exception: Unknown Message"}
+{"level":30,"time":1664464479907,"pid":27600,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664464479909,"pid":27600,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1664464479909,"pid":27600,"hostname":"Ethans-Computer","msg":"env: SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET are missing. Spotify music won't work in ErelaJS"}
+{"level":30,"time":1664464479964,"pid":27600,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664464480772,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664464480773,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664464480775,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664464480777,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664464480778,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664464480790,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664464480791,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664464480792,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664464480794,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664464480796,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664464480807,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664464480809,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664464480810,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664464480811,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664464480812,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664464480812,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664464480813,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664464480813,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664464480814,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664464480816,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664464480818,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664464480819,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664464480821,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664464480822,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664464480839,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664464480840,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664464480841,"pid":27600,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664464480871,"pid":27600,"hostname":"Ethans-Computer","msg":"Loaded 102 commands"}
+{"level":30,"time":1664464480871,"pid":27600,"hostname":"Ethans-Computer","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1664464480872,"pid":27600,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664464480873,"pid":27600,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664464480873,"pid":27600,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664464480873,"pid":27600,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664464480920,"pid":27600,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664464480920,"pid":27600,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664464481840,"pid":27600,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664464482344,"pid":27600,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664464482344,"pid":27600,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664464482674,"pid":27600,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664464483175,"pid":27600,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664464483177,"pid":27600,"hostname":"Ethans-Computer","msg":"Music Manager initialized"}
+{"level":30,"time":1664464483177,"pid":27600,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1664464483206,"pid":27600,"hostname":"Ethans-Computer","err":{"type":"Error","message":"connect ECONNREFUSED 127.0.0.1:2333","stack":"Error: connect ECONNREFUSED 127.0.0.1:2333\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":2333},"msg":"Node \"Local Node\" encountered an error: connect ECONNREFUSED 127.0.0.1:2333.: connect ECONNREFUSED 127.0.0.1:2333"}
+{"level":30,"time":1664464483247,"pid":27600,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664464483885,"pid":27600,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":40,"time":1664464513219,"pid":27600,"hostname":"Ethans-Computer","msg":"Node \"Local Node\" is reconnecting"}
+{"level":50,"time":1664464513224,"pid":27600,"hostname":"Ethans-Computer","err":{"type":"Error","message":"connect ECONNREFUSED 127.0.0.1:2333","stack":"Error: connect ECONNREFUSED 127.0.0.1:2333\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":2333},"msg":"Node \"Local Node\" encountered an error: connect ECONNREFUSED 127.0.0.1:2333.: connect ECONNREFUSED 127.0.0.1:2333"}
+{"level":40,"time":1664464543234,"pid":27600,"hostname":"Ethans-Computer","msg":"Node \"Local Node\" is reconnecting"}
+{"level":50,"time":1664464543235,"pid":27600,"hostname":"Ethans-Computer","err":{"type":"Error","message":"connect ECONNREFUSED 127.0.0.1:2333","stack":"Error: connect ECONNREFUSED 127.0.0.1:2333\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":2333},"msg":"Node \"Local Node\" encountered an error: connect ECONNREFUSED 127.0.0.1:2333.: connect ECONNREFUSED 127.0.0.1:2333"}
+{"level":40,"time":1664464573243,"pid":27600,"hostname":"Ethans-Computer","msg":"Node \"Local Node\" is reconnecting"}
+{"level":50,"time":1664464573246,"pid":27600,"hostname":"Ethans-Computer","err":{"type":"Error","message":"connect ECONNREFUSED 127.0.0.1:2333","stack":"Error: connect ECONNREFUSED 127.0.0.1:2333\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":2333},"msg":"Node \"Local Node\" encountered an error: connect ECONNREFUSED 127.0.0.1:2333.: connect ECONNREFUSED 127.0.0.1:2333"}
+{"level":40,"time":1664464603256,"pid":27600,"hostname":"Ethans-Computer","msg":"Node \"Local Node\" is reconnecting"}
+{"level":50,"time":1664464603259,"pid":27600,"hostname":"Ethans-Computer","err":{"type":"Error","message":"connect ECONNREFUSED 127.0.0.1:2333","stack":"Error: connect ECONNREFUSED 127.0.0.1:2333\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":2333},"msg":"Node \"Local Node\" encountered an error: connect ECONNREFUSED 127.0.0.1:2333.: connect ECONNREFUSED 127.0.0.1:2333"}
+{"level":50,"time":1664464633272,"pid":27600,"hostname":"Ethans-Computer","err":{"type":"Error","message":"Unable to connect after 5 attempts.","stack":"Error: Unable to connect after 5 attempts.\n    at Timeout._onTimeout (C:\\Users\\fruit\\discord-js-bot\\node_modules\\erela.js\\dist\\structures\\Node.js:188:31)\n    at listOnTimeout (node:internal/timers:557:17)\n    at processTimers (node:internal/timers:500:7)"},"msg":"Node \"Local Node\" encountered an error: Unable to connect after 5 attempts..: Unable to connect after 5 attempts."}
+{"level":30,"time":1664464845818,"pid":17520,"hostname":"Ethans-Computer","msg":"Validating config file and environment variables"}
+{"level":40,"time":1664464845819,"pid":17520,"hostname":"Ethans-Computer","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1664464845878,"pid":17520,"hostname":"Ethans-Computer","msg":"Loading commands..."}
+{"level":20,"time":1664464846690,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1664464846691,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1664464846694,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1664464846696,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1664464846697,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1664464846710,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1664464846712,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1664464846713,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1664464846715,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1664464846716,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1664464846731,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1664464846732,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1664464846734,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1664464846735,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1664464846736,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1664464846737,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1664464846737,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1664464846738,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1664464846738,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1664464846739,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1664464846741,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1664464846743,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1664464846745,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1664464846747,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1664464846754,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command bassboost. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846754,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command loop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846756,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command np. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846757,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command pause. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846759,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command play. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846760,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command queue. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846761,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command resume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846761,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command search. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846762,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command seek. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846763,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command shuffle. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846763,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command skip. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846764,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command stop. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846765,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping Command volume. Category ERELA_JS is disabled"}
+{"level":20,"time":1664464846767,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1664464846768,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1664464846768,"pid":17520,"hostname":"Ethans-Computer","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1664464846807,"pid":17520,"hostname":"Ethans-Computer","msg":"Loaded 89 commands"}
+{"level":30,"time":1664464846807,"pid":17520,"hostname":"Ethans-Computer","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1664464846807,"pid":17520,"hostname":"Ethans-Computer","msg":"Loading contexts..."}
+{"level":30,"time":1664464846809,"pid":17520,"hostname":"Ethans-Computer","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1664464846809,"pid":17520,"hostname":"Ethans-Computer","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1664464846809,"pid":17520,"hostname":"Ethans-Computer","msg":"Loading events..."}
+{"level":30,"time":1664464846865,"pid":17520,"hostname":"Ethans-Computer","msg":"Loaded 16 events. Success (16) Failed (0)"}
+{"level":30,"time":1664464846865,"pid":17520,"hostname":"Ethans-Computer","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1664464847583,"pid":17520,"hostname":"Ethans-Computer","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1664464847908,"pid":17520,"hostname":"Ethans-Computer","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1664464847908,"pid":17520,"hostname":"Ethans-Computer","msg":"Launching dashboard"}
+{"level":30,"time":1664464848233,"pid":17520,"hostname":"Ethans-Computer","msg":"Dashboard is listening on port 3000"}
+{"level":30,"time":1664464848691,"pid":17520,"hostname":"Ethans-Computer","msg":"Logged in as Peach's Slave#6947! (1024831075584852068)"}
+{"level":30,"time":1664464848691,"pid":17520,"hostname":"Ethans-Computer","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1664464848759,"pid":17520,"hostname":"Ethans-Computer","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1664464849133,"pid":17520,"hostname":"Ethans-Computer","msg":"Successfully registered interactions"}
+{"level":50,"time":1664483375910,"pid":17520,"hostname":"Ethans-Computer","err":{"type":"DiscordjsError","message":"The reply to this interaction has not been sent or deferred.","stack":"Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.\n    at ChatInputCommandInteraction.followUp (C:\\Users\\fruit\\discord-js-bot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:176:64)\n    at Object.handleSlashCommand (C:\\Users\\fruit\\discord-js-bot\\src\\handlers\\command.js:142:25)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async module.exports (C:\\Users\\fruit\\discord-js-bot\\src\\events\\interactions\\interactionCreate.js:18:5)","code":"InteractionNotReplied"},"msg":"Client Error: The reply to this interaction has not been sent or deferred."}
